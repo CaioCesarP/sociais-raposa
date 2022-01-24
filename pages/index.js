@@ -46,17 +46,6 @@ function HomePage() {
             </Text>
             
             <Link 
-                href="https://booyah.live/fayemii"
-                underline="hover"  
-                sx={
-                    { mb: 2, pl: 3, pr: 3, pt: 1, pb: 1, border: 1, borderRadius: 2, fontWeight: 'bold', fontsize: "18px"}
-                } 
-                >
-                    Booyah
-            </Link>
-            
-
-            <Link 
             href="https://chat.whatsapp.com/J634EiIl83Q1Ep3ElycweT"
             underline="hover" 
             sx={
@@ -74,6 +63,26 @@ function HomePage() {
                 } 
                 >
                     Discord
+            </Link>
+
+            <Link 
+                href="https://www.instagram.com/fayemilol/?hl=pt-br"
+                underline="hover"  
+                sx={
+                    { mb: 2, pl: 2, pr: 2, pt: 1, pb: 1, border: 1, borderRadius: 2, fontWeight: 'bold', fontsize: "18px"}
+                } 
+                >
+                    Instagram
+            </Link>
+
+            <Link 
+                href="https://twitter.com/Fayemilol?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                underline="hover"  
+                sx={
+                    { mb: 2, pl: 3, pr: 3, pt: 1, pb: 1, border: 1, borderRadius: 2, fontWeight: 'bold', fontsize: "18px"}
+                } 
+                >
+                    Twitter
             </Link>
 
 
